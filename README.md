@@ -1,5 +1,25 @@
-# 💫 About Me:
-Hi there! I’m Sherwin Romano, a BSIT graduate (Cum Laude) from Mapúa University and a Junior Web Developer passionate about building responsive, user-centered web applications.<br><br>💡 I specialize in PHP (Laravel), JavaScript (Vue.js), HTML/CSS, and SQL — with experience developing full-stack systems for web-based platforms and digital wellness projects.<br>🌱 Currently learning Java and Python to expand my development toolkit.<br>🎯 My goal is to create software that blends usability, performance, and accessibility for real-world impact.
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm80dWFlb2gyNHpmdGV3Y3g2dHZqM2Y1dDU0amN5anlkYW45cng2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="200" alt="Cool GIF">
+</p>
+
+# Hi there 👋, I'm Sherwin Romano
+
+I'm a **passionate software developer** with a strong background in **web and backend development**, focusing on **Java, PHP, and full-stack technologies**. I recently graduated **Cum Laude** with a **BSIT degree** and have hands-on experience in **building interactive web platforms and digital applications**.  
+
+💻 **What I do:**
+- Develop web applications using **Java, Spring Boot, Laravel, and Vue.js**
+- Work with **SQL and NoSQL databases** for scalable backend solutions
+- Create **interactive digital platforms** for personalized user experiences
+- Build **professional, responsive, and clean UI/UX designs**
+
+🌱 **Currently Learning:**
+- Advanced **backend architecture and API development** with Java
+- Optimizing web applications for **performance and scalability**
+
+🏆 **Achievements:**
+- Co-developed **ArtfulMind**, a digital platform integrating **art therapy with technology**
+- **Junior Web Developer Intern** for 4 months, contributing to real-world projects
+- Graduated **Cum Laude** and **Silver Medalist**, Mapúa University
 
 
 ## 🌐 Socials:
@@ -17,55 +37,3 @@ Hi there! I’m Sherwin Romano, a BSIT graduate (Cum Laude) from Mapúa Universi
 [![](https://visitcount.itsvg.in/api?id=svromano&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<h2 align="left"># 💫 About Me:
-Hi there! I’m Sherwin Romano, a BSIT graduate (Cum Laude) from Mapúa University and a Junior Web Developer passionate about building responsive, user-centered web applications.<br><br>💡 I specialize in PHP (Laravel), JavaScript (Vue.js), HTML/CSS, and SQL — with experience developing full-stack systems for web-based platforms and digital wellness projects.<br>🌱 Currently learning Java and Python to expand my development toolkit.<br>🎯 My goal is to create software that blends usability, performance, and accessibility for real-world impact.
-</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
