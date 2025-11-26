@@ -6,6 +6,9 @@
 
 I'm a **passionate software developer** with a strong background in **web and backend development**, focusing on **Java, PHP, and full-stack technologies**. I recently graduated **Cum Laude** with a **BSIT degree** and have hands-on experience in **building interactive web platforms and digital applications**.  
 
+I also work as a **freelance developer**, helping clients **design, develop, and publish web applications** such as **management systems, learning platforms, and more**.
+
+
 💻 **What I do:**
 - Develop web applications using **Java, Spring Boot, Laravel, and Vue.js**
 - Work with **SQL and NoSQL databases** for scalable backend solutions
@@ -17,9 +20,10 @@ I'm a **passionate software developer** with a strong background in **web and ba
 - Optimizing web applications for **performance and scalability**
 
 🏆 **Achievements:**
+- Graduated **Cum Laude** and **Silver Medalist**, Mapúa University
 - Co-developed **ArtfulMind**, a digital platform integrating **art therapy with technology**
 - **Junior Web Developer Intern** for 4 months, contributing to real-world projects
-- Graduated **Cum Laude** and **Silver Medalist**, Mapúa University
+- Completed **freelance projects** for clients, delivering **management systems and other web applications**
 
 
 ## 🌐 Socials:
