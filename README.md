@@ -2,35 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm80dWFlb2gyNHpmdGV3Y3g2dHZqM2Y1dDU0amN5anlkYW45cng2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" width="200" alt="Coding GIF">
 </p>
 
-# Hi there 👋, I'm Sherwin Romano
 
-I'm a **passionate software developer** with a strong background in **web and backend development**, focusing on **Java, PHP, and full-stack technologies**. I recently graduated **Cum Laude** with a **BSIT degree** and have hands-on experience in **building interactive web platforms and digital applications**.  
-
-I also work as a **freelance developer**, helping clients **design, develop, and publish web applications** such as **management systems, learning platforms, and more**.
-
----
-
-## 💻 What I do
-- Develop web applications using **Java, Spring Boot, Laravel, and Vue.js**
-- Work with **SQL and NoSQL databases** for scalable backend solutions
-- Create **interactive digital platforms** for personalized user experiences
-- Build **professional, responsive, and clean UI/UX designs**
-
----
-
-## 🌱 Currently Learning
-- Advanced **backend architecture and API development** with Java
-- Optimizing web applications for **performance and scalability**
-
----
-
-## 🏆 Achievements
-- Graduated **Cum Laude** and **Silver Medalist**, Mapúa University
-- Co-developed **ArtfulMind**, a digital platform integrating **art therapy with technology**
-- **Junior Web Developer Intern** for 4 months, contributing to real-world projects
-- Completed **freelance projects** for clients, delivering **management systems and other web applications**
-
----
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sherwin-romano-472aab282) 
